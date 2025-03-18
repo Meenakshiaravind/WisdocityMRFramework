@@ -1,0 +1,7 @@
+<suite name="Cucumber Test Suite">
+    <test name="Login Tests">
+        <classes>
+            <class name="runners.TestRunner"/>
+        </classes>
+    </test>
+</suite>
